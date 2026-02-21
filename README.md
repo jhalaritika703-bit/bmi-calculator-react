@@ -47,15 +47,7 @@ This application calculates BMI using weight (lbs) and height (inches) and class
 
 ---
 
-## 📌 Future Improvements
 
-- Add Metric (kg/cm) option
-- Add BMI Progress Bar
-- Add Color Indicators
-- Deploy on Vercel / Netlify
-- Dark Mode Toggle
-
----
 
 ## 👩‍💻 Author
 
