@@ -1,16 +1,62 @@
-# React + Vite
+# 🧮 BMI Calculator (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Body Mass Index (BMI) Calculator built using React.
 
-Currently, two official plugins are available:
+This application calculates BMI using weight (lbs) and height (inches) and classifies the result according to WHO standards.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Live Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Controlled Form Inputs
+- Real-time BMI Calculation
+- WHO BMI Classification Logic
+- Form Validation
+- Reset Functionality
+- Responsive Modern UI
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📊 BMI Categories (WHO Standard)
+
+- Underweight → Below 18.5  
+- Normal Weight → 18.5 – 24.9  
+- Overweight → 25 – 29.9  
+- Obese → 30+  
+
+---
+
+## 🛠 Tech Stack
+
+- React (Functional Components)
+- Vite
+- JavaScript (ES6)
+- CSS3
+
+---
+
+
+## 🎯 What I Learned
+
+- React useState Hook
+- Controlled Components
+- Form Handling in React
+- Conditional Rendering
+- Basic Input Validation
+- Clean Component Structure
+
+---
+
+## 📌 Future Improvements
+
+- Add Metric (kg/cm) option
+- Add BMI Progress Bar
+- Add Color Indicators
+- Deploy on Vercel / Netlify
+- Dark Mode Toggle
+
+---
+
+## 👩‍💻 Author
+
+Ritika Jhala  
